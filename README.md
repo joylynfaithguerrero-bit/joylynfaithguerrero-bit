@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Joylyn Faith Guerrero
 
-<!--
-**joylynfaithguerrero-bit/joylynfaithguerrero-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Virtual Assistant specializing in Data Entry, Web Research, Lead Generation, Email Management, and Administrative Support. I help businesses organize data, manage emails, conduct research, and maintain accurate records.
 
-Here are some ideas to get you started:
+## Skills
+- Data Entry
+- Web Research
+- Lead Generation
+- Email Management
+- Administrative Support
+- Google Sheets
+- Microsoft Excel
+- File Organization
+- Medical Records Management
+- Social Media Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+You may view my work samples here:
+- Data Entry Portfolio: https://github.com/joylynfaithguerrero-bit/data-entry-portfolio
+- Web Research Portfolio: https://github.com/joylynfaithguerrero-bit/web-research-portfolio
+- Virtual Assistant Portfolio: https://github.com/joylynfaithguerrero-bit/virtual-assistant-portfolio
+
+## Contact
+Email: guerrerojoylynfaith@gmail.com
+OnlineJobs: https://www.onlinejobs.ph/jobseekers/info/4767485
